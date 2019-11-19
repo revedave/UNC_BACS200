@@ -9,6 +9,11 @@
 
 ### Test
 * Acceptance criteria
+  * Page 
 * Issue tracking
+  *
 * Reviews
+  *
 * Release criteria
+  * Pages Works As Planned 
+  * At least 8 of the 10 Objectives Work.
